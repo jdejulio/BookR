@@ -1,0 +1,3 @@
+exer <- list(quakes, q5.dframe, Duncan)
+dput(exer, "C:/Users/Tuca Tuca/Desktop/Exercise8-1.txt")
+list.of.dataframes <- dget("C:/Users/xxxx/Exercise8-1.txt")
